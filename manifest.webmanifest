@@ -1,0 +1,16 @@
+{
+  "name": "Pavages Bézier",
+  "short_name": "Pavages",
+  "description": "Dessine des pavages périodiques à la Escher avec des côtés en courbes de Bézier, un motif au pinceau reproduit automatiquement, et exporte le résultat en image ou en gabarit SVG.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e9efee",
+  "theme_color": "#1d6b73",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
