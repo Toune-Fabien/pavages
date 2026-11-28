@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-<rect width="512" height="512" rx="96" fill="#1d6b73"/>
-<g stroke="#15212a" stroke-width="6" stroke-linejoin="round">
-<path d="M96 256 L196 156 L296 256 L196 356 Z" fill="#f1e9d8"/>
-<path d="M296 256 L396 156 L496 256 L396 356 Z" fill="#e3b04b"/>
-<path d="M196 356 L296 256 L396 356 L296 456 Z" fill="#2f4f8f"/>
-<path d="M196 156 L296 56 L396 156 L296 256 Z" fill="#2f8f8f"/>
+<rect width="512" height="512" rx="96" fill="#f6e9cd"/>
+<g stroke="#4a2c12" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+<path d="M146,160 Q146,108 256,98 Q366,108 366,160 C366,212 300,232 296,256 C300,292 386,340 386,392 Q386,432 256,442 Q126,432 126,392 C126,340 212,292 216,256 C212,232 146,212 146,160 Z" fill="#c97f2e"/>
+<path d="M146,160 Q146,108 256,98 Q366,108 366,160 C366,185 335,200 310,218 C280,198 232,198 202,218 C177,200 146,185 146,160 Z" fill="#f3e6c8"/>
+<path d="M126,392 Q126,432 256,442 Q386,432 386,392 C386,367 355,352 330,334 C300,354 212,354 182,334 C157,352 126,367 126,392 Z" fill="#f3e6c8"/>
+<circle cx="238" cy="150" r="5" fill="#f3e6c8" opacity="0.9"/>
+<circle cx="276" cy="168" r="4" fill="#f3e6c8" opacity="0.9"/>
+<circle cx="256" cy="256" r="4" fill="#f3e6c8" opacity="0.7"/>
+<circle cx="236" cy="362" r="5" fill="#f3e6c8" opacity="0.9"/>
+<circle cx="278" cy="378" r="4" fill="#f3e6c8" opacity="0.9"/>
 </g>
 </svg>
